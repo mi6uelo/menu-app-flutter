@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "292441737511",
+    "project_id": "estilo-360-project",
+    "storage_bucket": "estilo-360-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292441737511:android:e9a1de1fd3801d934b0102",
+        "android_client_info": {
+          "package_name": "com.example.proyecto_final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJTsjbxum52kMW9DoMp7I-lf5KoSsLpqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
